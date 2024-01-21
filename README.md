@@ -1,3 +1,6 @@
+Edited to NoPixel 4.0
+
+
 # PS-Inventory
 
 lj-Inventory has been fully redesigned by [OK1ez](https://github.com/OK1ez), under the name ps-inventory.
